@@ -1,0 +1,82 @@
+[
+  {
+    "id": "IN-PATENT-3P",
+    "title": "Section 3(p), Indian Patents Act, 1970 — Traditional Knowledge Exclusion",
+    "jurisdiction": "India",
+    "doc_type": "Statute",
+    "source_authority": "Office of the Controller General of Patents, Designs and Trade Marks (India)",
+    "date": "1970-09-19",
+    "url": "https://ipindia.gov.in/",
+    "text": "Section 3 of the Indian Patents Act lists inventions that are not patentable. Clause (p) specifically bars an invention that is, in effect, traditional knowledge, or which is an aggregation or duplication of known properties of a traditionally known component or components. This clause is central to Ayurveda-related patent filings, because it means a formulation that merely restates a remedy already documented in classical texts (such as the Charaka Samhita or Sushruta Samhita) or already recorded in the Traditional Knowledge Digital Library cannot be patented, even if it has never been commercially exploited. Applicants seeking Ayurveda patents in India must therefore demonstrate a genuine inventive step beyond what is already part of the traditional knowledge base, such as a novel extraction process, a new therapeutic combination not found in classical literature, or a synergistic formulation with demonstrated additional efficacy."
+  },
+  {
+    "id": "IN-TKDL-OVERVIEW",
+    "title": "Traditional Knowledge Digital Library (TKDL) — Purpose and Function",
+    "jurisdiction": "India",
+    "doc_type": "Government Database / Policy",
+    "source_authority": "Council of Scientific and Industrial Research (CSIR) & Ministry of AYUSH",
+    "date": "2001-01-01",
+    "url": "https://www.tkdl.res.in/",
+    "text": "The Traditional Knowledge Digital Library is a collaborative database created by CSIR and the Ministry of AYUSH to document traditional medicinal knowledge from Ayurveda, Unani, Siddha, and Yoga texts in a format searchable by patent examiners worldwide. Its main purpose is defensive: to prevent the grant of patents on traditional remedies that are already publicly known, by giving international patent offices (including the USPTO and EPO) prior art evidence in a searchable, translated format. TKDL entries are classified using an International Patent Classification-linked system so examiners can cross-reference claimed inventions against documented traditional formulations. For an Ayurveda IP project, TKDL search results are often the first checkpoint before filing, since a match against TKDL content is a strong signal that the claimed invention may fail novelty or fall under Section 3(p) exclusions."
+  },
+  {
+    "id": "IN-GMP-SCHEDULE-T",
+    "title": "Schedule T — Good Manufacturing Practices for Ayurvedic, Siddha and Unani Drugs",
+    "jurisdiction": "India",
+    "doc_type": "Regulation",
+    "source_authority": "Ministry of AYUSH, under the Drugs and Cosmetics Act, 1940 and Rules, 1945",
+    "date": "2000-01-01",
+    "url": "https://ayush.gov.in/",
+    "text": "Schedule T lays down Good Manufacturing Practice requirements specifically for manufacturers of Ayurvedic, Siddha, and Unani medicines in India. It covers infrastructure requirements (separate areas for raw material storage, processing, and packaging), personnel qualifications, quality control testing of raw herbal materials and finished products, and documentation practices including batch manufacturing records. A manufacturing license under the Drugs and Cosmetics Act requires compliance with Schedule T, and this compliance is typically a precondition for a company seeking to export Ayurvedic products, since importing countries often ask for GMP certification as part of their own regulatory clearance process."
+  },
+  {
+    "id": "WIPO-IGC-TK",
+    "title": "WIPO Intergovernmental Committee (IGC) on Genetic Resources, Traditional Knowledge and Folklore",
+    "jurisdiction": "International",
+    "doc_type": "International Framework / Ongoing Negotiation",
+    "source_authority": "World Intellectual Property Organization (WIPO)",
+    "date": "2001-01-01",
+    "url": "https://www.wipo.int/tk/en/igc/",
+    "text": "WIPO's Intergovernmental Committee is the main international forum negotiating how genetic resources and traditional knowledge, including traditional medicine systems like Ayurveda, should be protected under intellectual property frameworks. As of the most recent negotiating sessions, the IGC has been working toward a possible international legal instrument requiring patent applicants to disclose the origin of genetic resources or traditional knowledge used in an invention, and in some proposals, requiring evidence of prior informed consent and benefit-sharing with the community of origin. No binding treaty has been finalized yet, so current international protection of Ayurveda-related traditional knowledge relies mainly on defensive databases like TKDL and national exclusions such as India's Section 3(p), rather than a harmonized global IP right."
+  },
+  {
+    "id": "PCT-HERBAL-FILING",
+    "title": "Filing Ayurveda-Related Inventions via the Patent Cooperation Treaty (PCT)",
+    "jurisdiction": "International",
+    "doc_type": "Procedural Guidance",
+    "source_authority": "World Intellectual Property Organization (WIPO)",
+    "date": "1978-01-01",
+    "url": "https://www.wipo.int/pct/en/",
+    "text": "The PCT allows an applicant to file a single international patent application that can later enter the national phase in multiple member countries, rather than filing separately in each jurisdiction from the outset. For an Ayurveda-based invention, this route is often used to delay the cost of multiple national filings while an international search report assesses novelty. However, the PCT does not override the substantive patentability rules of each designated country: an application that would be rejected in India under Section 3(p) will still face that same traditional-knowledge scrutiny if it is not genuinely novel, and jurisdictions like the US or EU will apply their own standards for what counts as an inventive step over a traditional formulation."
+  },
+  {
+    "id": "EU-THMPD",
+    "title": "EU Traditional Herbal Medicinal Products Directive (THMPD)",
+    "jurisdiction": "European Union",
+    "doc_type": "Directive / Regulatory Pathway",
+    "source_authority": "European Medicines Agency (EMA)",
+    "date": "2004-03-31",
+    "url": "https://www.ema.europa.eu/",
+    "text": "The Traditional Herbal Medicinal Products Directive created a simplified registration route for herbal products, including many Ayurvedic formulations, sold in the European Union. Under this pathway, a product can be registered without full clinical trial data if it can show traditional use of at least 30 years, including at least 15 years within the EU, along with evidence of safety and a plausible basis for efficacy from long-standing use. This is a lighter-touch alternative to a full marketing authorization, but it restricts the product to over-the-counter use with only medical claims that are consistent with its traditional-use history; it is not a route for products claiming to treat serious diseases."
+  },
+  {
+    "id": "US-FDA-BOTANICAL",
+    "title": "US FDA Guidance on Botanical Drug Development",
+    "jurisdiction": "United States",
+    "doc_type": "Regulatory Guidance",
+    "source_authority": "U.S. Food and Drug Administration (FDA)",
+    "date": "2016-12-01",
+    "url": "https://www.fda.gov/",
+    "text": "The FDA's botanical drug guidance sets out how plant-derived products, including Ayurvedic formulations, can be developed as regulated drugs in the United States rather than only as dietary supplements. Because botanical mixtures are chemically complex, the FDA allows a phased approach where early-phase clinical trials can proceed with a less rigorously characterized botanical raw material than would normally be required, provided safety data supports it, with fuller chemical characterization expected as the product moves toward a New Drug Application. This pathway has been used successfully for at least one plant-derived drug in the past, and it represents the main route for an Ayurvedic formulation to be marketed in the US as a therapeutic drug with disease-treatment claims, as opposed to being sold as a dietary supplement with only structure/function claims."
+  },
+  {
+    "id": "IN-AYUSH-PREMIUM-MARK",
+    "title": "AYUSH Premium Mark Certification Scheme",
+    "jurisdiction": "India",
+    "doc_type": "Voluntary Certification Scheme",
+    "source_authority": "Ministry of AYUSH & Quality Council of India (QCI)",
+    "date": "2022-01-01",
+    "url": "https://ayush.gov.in/",
+    "text": "The AYUSH Premium Mark is a voluntary certification introduced to signal higher-than-mandatory quality standards for Ayurveda, Yoga, Unani, Siddha, and Homoeopathy products, going beyond the baseline GMP requirements of Schedule T. It involves third-party audits covering raw material sourcing, manufacturing process control, and product testing, and is intended to help Indian AYUSH manufacturers build export credibility, since several importing countries have no formal recognition of Indian Ayurveda credentials and instead rely on manufacturer-provided quality evidence. Certification under this mark is separate from, and additional to, the manufacturing license itself, and does not substitute for country-specific import registration requirements such as the EU's THMPD or FDA botanical drug pathways."
+  }
+]

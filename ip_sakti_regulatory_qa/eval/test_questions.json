@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Can I get an Indian patent for a formulation that is already described in classical Ayurvedic texts?",
+    "expected_doc_ids": ["IN-PATENT-3P", "IN-TKDL-OVERVIEW"],
+    "expected_keywords": ["Section 3(p)", "traditional knowledge", "novelty"]
+  },
+  {
+    "question": "How does TKDL help prevent wrongful patents on Ayurvedic remedies?",
+    "expected_doc_ids": ["IN-TKDL-OVERVIEW"],
+    "expected_keywords": ["prior art", "patent examiners", "traditional knowledge"]
+  },
+  {
+    "question": "What GMP requirements apply to Ayurvedic drug manufacturers in India?",
+    "expected_doc_ids": ["IN-GMP-SCHEDULE-T"],
+    "expected_keywords": ["Schedule T", "manufacturing license"]
+  },
+  {
+    "question": "Is there an international treaty that protects Ayurveda traditional knowledge globally?",
+    "expected_doc_ids": ["WIPO-IGC-TK"],
+    "expected_keywords": ["WIPO", "no binding treaty"]
+  },
+  {
+    "question": "What is the process for filing an Ayurveda-related patent in multiple countries?",
+    "expected_doc_ids": ["PCT-HERBAL-FILING"],
+    "expected_keywords": ["PCT", "national phase"]
+  },
+  {
+    "question": "How can an Ayurvedic product be legally sold in the European Union without full clinical trials?",
+    "expected_doc_ids": ["EU-THMPD"],
+    "expected_keywords": ["traditional use", "30 years", "THMPD"]
+  },
+  {
+    "question": "What pathway allows an Ayurvedic formulation to be sold as a treatment drug in the United States?",
+    "expected_doc_ids": ["US-FDA-BOTANICAL"],
+    "expected_keywords": ["botanical drug", "FDA", "New Drug Application"]
+  },
+  {
+    "question": "What is the AYUSH Premium Mark and how is it different from a manufacturing license?",
+    "expected_doc_ids": ["IN-AYUSH-PREMIUM-MARK"],
+    "expected_keywords": ["voluntary", "certification", "export"]
+  }
+]
