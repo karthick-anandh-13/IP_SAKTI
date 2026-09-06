@@ -1,0 +1,12 @@
+PyMuPDF==1.24.10
+pytesseract==0.3.10
+pillow==10.4.0
+sentence-transformers==3.0.1
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.32
+pgvector==0.3.2
+langdetect==1.0.9
+tqdm==4.66.5
+python-dotenv==1.0.1
+pydantic==2.8.2
+numpy==1.26.4
