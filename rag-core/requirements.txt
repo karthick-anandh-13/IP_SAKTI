@@ -1,0 +1,12 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.6
+pydantic>=2.9.2
+pydantic-settings>=2.5.2
+langchain>=0.3.7
+langchain-text-splitters>=0.3.0
+qdrant-client>=1.11.3
+sentence-transformers>=3.2.1
+anthropic>=0.39.0
+python-dotenv>=1.0.1
+langdetect>=1.0.9
+

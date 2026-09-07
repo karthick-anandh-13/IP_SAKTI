@@ -1,0 +1,74 @@
+[
+  {
+    "doc_id": "IN-PATACT-1970-S3D",
+    "title": "The Patents Act, 1970 — Section 3(d)",
+    "doc_type": "statute",
+    "jurisdiction": "IN",
+    "clause_or_section": "Section 3(d)",
+    "issuing_authority": "Government of India, Ministry of Law and Justice",
+    "publication_date": "1970-09-19",
+    "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf",
+    "language": "en",
+    "text": "Section 3(d) of the Patents Act, 1970 excludes from patentability: the mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance, or the mere discovery of any new property or new use for a known substance, or of the mere use of a known process, machine or apparatus unless such known process results in a new product or employs at least one new reactant. Explanation: for the purposes of this clause, salts, esters, ethers, polymorphs, metabolites, pure form, particle size, isomers, mixtures of isomers, complexes, combinations and other derivatives of known substance shall be considered to be the same substance, unless they differ significantly in properties with regard to efficacy. This provision is particularly relevant to Ayurvedic formulations, where patent applications claiming a 'new use' or 'new form' of a classically known herb (e.g., turmeric, neem) must demonstrate enhanced therapeutic efficacy over the known substance to be patentable, and cannot rely merely on a new delivery mechanism or dosage form."
+  },
+  {
+    "doc_id": "IN-TKDL-TURMERIC-001",
+    "title": "TKDL Prior Art Record — Turmeric Wound Healing (Classical Reference)",
+    "doc_type": "prior_art",
+    "jurisdiction": "IN",
+    "clause_or_section": "TKDL Class A61P17/02 (Wound Healing Agents)",
+    "issuing_authority": "Traditional Knowledge Digital Library, CSIR",
+    "publication_date": "2001-01-01",
+    "official_url": "https://www.tkdl.res.in/",
+    "language": "en",
+    "text": "The Traditional Knowledge Digital Library documents the use of turmeric (Curcuma longa, Haridra) powder applied topically for wound healing, referenced across classical Ayurvedic texts including the Sushruta Samhita and Charaka Samhita. This documented traditional use was central to the landmark 1995 US Patent 5,401,504 re-examination, in which the USPTO revoked the patent on the wound-healing use of turmeric on the ground that this use was already known and described in ancient Indian medical texts and therefore lacked novelty. TKDL entries are formatted with classical Sanskrit shloka references, English/Spanish/French/German/Japanese translations, and are actively supplied to patent offices including EPO, USPTO, and JPO under bilateral access agreements to serve as prior art during examination, specifically to prevent bio-piracy of traditional Ayurvedic, Unani, Siddha and Yoga knowledge."
+  },
+  {
+    "doc_id": "IN-AYUSH-GAZ-2023-14",
+    "title": "AYUSH Premium Mark Scheme — Gazette Notification",
+    "doc_type": "gazette_notification",
+    "jurisdiction": "IN",
+    "clause_or_section": "Notification No. Z.28015/108/2020-DC(AYUSH)",
+    "issuing_authority": "Ministry of AYUSH, Government of India",
+    "publication_date": "2023-03-15",
+    "official_url": "https://www.ayush.gov.in/",
+    "language": "en",
+    "text": "The Ministry of AYUSH notifies the 'AYUSH Premium Mark' certification scheme, applicable to Ayurvedic, Siddha, Unani and Homoeopathy (ASU&H) products manufactured in India for the export market. Manufacturers seeking to use the AYUSH Premium Mark on packaging and in regulatory filings must obtain a Good Manufacturing Practices (GMP) certificate under Schedule T of the Drugs and Cosmetics Rules, 1945, and demonstrate compliance with pharmacopoeial standards laid down in the Ayurvedic Pharmacopoeia of India. Products bearing traditional formulations derived from classical texts must additionally furnish a declaration of the classical reference (e.g., named formulation from the Ashtanga Hridaya or Bhaishajya Ratnavali) to the licensing authority, distinct from any patent claim on a novel extraction or standardization process, which must be filed separately with the Indian Patent Office."
+  },
+  {
+    "doc_id": "WIPO-TK-GRTKF-STD",
+    "title": "WIPO Draft Provisions on the Protection of Traditional Knowledge",
+    "doc_type": "international_standard",
+    "jurisdiction": "WIPO",
+    "clause_or_section": "Article 3 — Scope of Protection",
+    "issuing_authority": "World Intellectual Property Organization, IGC on GRTKF",
+    "publication_date": "2019-06-01",
+    "official_url": "https://www.wipo.int/tk/en/",
+    "language": "en",
+    "text": "Under the WIPO Intergovernmental Committee's draft provisions on Genetic Resources, Traditional Knowledge and Folklore (GRTKF), Member States are encouraged to require that patent applicants disclose the country of origin or source of genetic resources and associated traditional knowledge utilized in an invention, and provide evidence of prior informed consent and mutually agreed terms for access and benefit-sharing, consistent with the Nagoya Protocol. For Ayurvedic formulations, this disclosure obligation intersects directly with India's Biological Diversity Act, 2002, under which any person seeking IP protection for an invention based on biological resources obtained from India must obtain prior approval from the National Biodiversity Authority (NBA) before the application is granted, though approval may be obtained after filing but before the patent is granted."
+  },
+  {
+    "doc_id": "EPO-GUIDELINES-G-II-3.1",
+    "title": "EPO Guidelines for Examination — Herbal/Natural Product Claims",
+    "doc_type": "international_standard",
+    "jurisdiction": "EPO",
+    "clause_or_section": "Part G, Chapter II, Section 3.1",
+    "issuing_authority": "European Patent Office",
+    "publication_date": "2024-03-01",
+    "official_url": "https://www.epo.org/en/legal/guidelines-epc",
+    "language": "en",
+    "text": "The EPO Guidelines for Examination specify that a claim to a natural substance or plant extract, including those derived from Ayurvedic medicinal plants, may satisfy the novelty requirement under Article 54 EPC only if the substance has not previously been made available to the public in that form, including through disclosure in traditional knowledge databases such as TKDL. Inventive step under Article 56 EPC requires the applicant to demonstrate that the specific extraction process, standardized composition, or synergistic combination was not obvious to a person skilled in the art in light of the prior art, including classical Ayurvedic texts where these have been published or otherwise made publicly accessible, whether physically or digitally, before the priority date."
+  },
+  {
+    "doc_id": "IN-BDACT-2002-S6",
+    "title": "Biological Diversity Act, 2002 — Section 6",
+    "doc_type": "statute",
+    "jurisdiction": "IN",
+    "clause_or_section": "Section 6",
+    "issuing_authority": "Government of India",
+    "publication_date": "2002-02-05",
+    "official_url": "https://nbaindia.gov.in/",
+    "language": "en",
+    "text": "No person shall apply for any intellectual property right, by whatever name called, in or outside India for any invention based on any research or information on a biological resource obtained from India without obtaining the previous approval of the National Biodiversity Authority before making such application. This applies squarely to Ayurvedic formulations derived from Indian medicinal plants (such as Ashwagandha, Brahmi, Guggul) where a patent application, whether filed in India or as a PCT international application designating other states, claims an invention utilizing such biological resource. The NBA approval process requires benefit-sharing arrangements to be determined, which may include royalty payments, joint ownership of intellectual property, or technology transfer, before final patent grant, per Section 6(2) of the Act."
+  }
+]
