@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Sidebar from "./components/Sidebar";
 import ChatWindow from "./components/ChatWindow";
 import QueryInput from "./components/QueryInput";
+import NoveltyScanner from "./components/NoveltyScanner";
 import { SAMPLE_CONVERSATION } from "./data/mockData";
 import type { ChatMessage, Conversation, TopicSuggestion } from "./types";
 import { useLanguage } from "./context/LanguageContext";
@@ -106,6 +107,7 @@ export default function App() {
           onSelectTopic={handleSelectTopic}
         />
         <main className="flex min-h-0 flex-1 flex-col">
+          <NoveltyScanner />
           <div className="min-h-0 flex-1">
             <ChatWindow messages={messages} isThinking={isThinking} onSelectTopic={handleSelectTopic} />
           </div>

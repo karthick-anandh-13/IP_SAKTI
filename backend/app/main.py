@@ -16,6 +16,7 @@ from app.config import settings
 from app.database import Base, engine
 from app.documents.router import router as documents_router
 from app.feedback.router import router as feedback_router
+from app.novelty.router import router as novelty_router
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("ipsakti")
@@ -79,7 +80,7 @@ app.include_router(auth_router)
 app.include_router(chat_router)
 app.include_router(documents_router)
 app.include_router(feedback_router)
-
+app.include_router(novelty_router)
 
 @app.get("/", tags=["Health"])
 def root() -> dict:
