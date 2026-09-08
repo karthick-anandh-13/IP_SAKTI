@@ -15,3 +15,4 @@ data/embeddings/*
 !data/processed/.gitkeep
 !data/embeddings/.gitkeep
 .venv-nlp/
+backend/IP_SAKTI.env.txt
